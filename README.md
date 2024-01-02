@@ -56,6 +56,8 @@ print(list_of_nums)
 ```
 
 ## Output:
+![s](https://github.com/pradeeprajeswari/Sorting-Algorithm/assets/145743112/19ecbb43-3954-4eda-9d12-0ea2277ec16e)
+![i](https://github.com/pradeeprajeswari/Sorting-Algorithm/assets/145743112/e12b09a2-8fd9-4834-b499-b373f3333291)
 
 
 ## Result:
